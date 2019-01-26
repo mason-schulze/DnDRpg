@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/CaveTesting.unity
+  isLoaded: 1
+  isActive: 1
